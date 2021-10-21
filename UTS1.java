@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class UTS1 {
+    //Soal 2
     public static void main(String args[])
     {
         Scanner masuk = new Scanner(System.in);

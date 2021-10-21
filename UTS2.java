@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class UTS2{
+    //Soal 3
     public static void main(String[] args){
 
         Scanner userinput = new Scanner(System.in);

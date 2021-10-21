@@ -1,6 +1,6 @@
-import java.util.Scanner;
-public class UTS3
-{
+import java.util.*;
+public class UTS3{
+    //Soal 1
     public static void main(String args[])
     {
         Scanner masuk = new Scanner(System.in);
