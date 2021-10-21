@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class UTS3
 {
     public static void main(String args[])
@@ -24,11 +24,11 @@ public class UTS3
         }
         else
         {
-            biaya =(150*20)+((selisih-150)*1);
+            biaya =(150*5)+((selisih-150)*1);
         }
         System.out.println("Waktu Awal Telp  : "+J1+":"+M1+":"+J1);
         System.out.println("Waktu Akhir Telp : "+J2+":"+M2+":"+J2);
         System.out.println("Lama Telepon     : "+selisih+" detik");
-        System.out.println("Biaya Yang dihabiskan "+biaya+" rupiah");
+        System.out.println("Biaya Yang dihabiskan? "+biaya+" rupiah");
     }
 }
